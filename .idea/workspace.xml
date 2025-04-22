@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0cacc8b-102a-4f62-a2e5-d4ff87823c0a" name="Changes" comment="first kind of working commit">
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/src/main/java/org/example/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/server/target/classes/org/example/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/classes/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/classes/client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/classes/helpers/CollectionManager$IDComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/classes/helpers/CollectionManager$IDComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/classes/helpers/CollectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/classes/helpers/CollectionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/target/classes/server/src/main/java/org/example/Server.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bogdanborovoy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:bogdanborovoy/lab6.git&quot;,
+    &quot;accountId&quot;: &quot;855f23ff-82a6-4d46-944c-cfc51b501316&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vlnO4vBCDy97twpeyZqgzbXwxA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bogdanborovoy/Desktop/lab6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="server" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cacc8b-102a-4f62-a2e5-d4ff87823c0a" name="Changes" comment="" />
+      <created>1744728492383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744728492383</updated>
+      <workItem from="1744728493577" duration="28000" />
+      <workItem from="1744958408277" duration="424000" />
+      <workItem from="1744959188568" duration="69000" />
+      <workItem from="1744959293050" duration="6000" />
+      <workItem from="1744959327960" duration="1000" />
+      <workItem from="1744983884094" duration="28000" />
+      <workItem from="1744983946167" duration="12000" />
+      <workItem from="1744983959797" duration="296000" />
+      <workItem from="1744984294834" duration="50000" />
+      <workItem from="1744984347476" duration="48000" />
+      <workItem from="1744984423702" duration="7110000" />
+      <workItem from="1745118834562" duration="1754000" />
+      <workItem from="1745120598348" duration="20634000" />
+      <workItem from="1745304623839" duration="1330000" />
+      <workItem from="1745316858066" duration="1213000" />
+    </task>
+    <task id="LOCAL-00001" summary="first kind of working commit">
+      <option name="closed" value="true" />
+      <created>1744991876804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744991876804</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first kind of working commit">
+      <option name="closed" value="true" />
+      <created>1745305103985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745305103985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first kind of working commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first kind of working commit" />
+  </component>
+</project>
