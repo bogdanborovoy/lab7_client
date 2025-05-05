@@ -1,0 +1,10 @@
+response/Response.class
+classes/AstartesCategory.class
+classes/MeleeWeapon.class
+request/Request.class
+classes/Chapter.class
+classes/SpaceMarine.class
+classes/Coordinates.class
+client/Client.class
+request/AddRequest.class
+request/AddCommands.class
