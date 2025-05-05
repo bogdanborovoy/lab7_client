@@ -1,5 +1,6 @@
 package classes;
 
+import java.io.Serializable;
 import java.util.Objects;
 import java.util.UUID;
 
@@ -7,7 +8,7 @@ import java.util.UUID;
  * Класс ордена
  * @author bogdanborovoy
  */
-public class Chapter {
+public class Chapter implements Serializable {
     /**
      * Название ордена. Поле не может быть null, строка не может быть пустой.
      */

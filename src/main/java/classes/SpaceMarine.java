@@ -1,5 +1,6 @@
 package classes;
 
+import java.io.Serializable;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Objects;
@@ -9,7 +10,7 @@ import java.util.UUID;
  * Класс Space Marine
  * @author bogdanborovoy
  */
-public class SpaceMarine {
+public class SpaceMarine implements Serializable {
     /**
      * Уникальный идентификатор космического десантника.
      * Значение поля должно быть больше 0, уникальным и генерироваться автоматически.

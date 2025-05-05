@@ -1,12 +1,13 @@
 package classes;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 /**
  * Класс координат
  * @author bogdanborovoy
  */
-public class Coordinates {
+public class Coordinates implements Serializable {
     private Integer x; //Поле не может быть null
     private int y;
 
