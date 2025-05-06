@@ -161,15 +161,19 @@ public class Client {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите адрес сервера");
         String address ="";
+        int port = 0;
         try {
             address = scanner.nextLine();
+            System.out.println("Введите порт");
+            port = scanner.nextInt();
         }
         catch (NoSuchElementException e) {
             System.out.println("Вы вышли из приложения");
             System.exit(0);
         }
 
-        Client client = new Client(address, 2457);
+        Client client = new Client(address, port);
+
 
         client.startConnection();
 
